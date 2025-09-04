@@ -14,7 +14,8 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/vite-lib.js",
       "require": "./dist/vite-lib.umd.js"
-    }
+    },
+    "./dist/vite-lib.css": "./dist/vite-lib.css"
   },
   "scripts": {
     "dev": "vite",
